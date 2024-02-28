@@ -1,5 +1,6 @@
 # Cadmus
 
+Network enterprise Capstone showcase
 
 ![image](https://github.com/Applepancakes/Cadmus/assets/158091426/4df9763e-c9ba-4fac-8d65-2c95bf609e62)
 
